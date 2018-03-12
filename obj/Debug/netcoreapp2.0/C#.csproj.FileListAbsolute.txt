@@ -1,0 +1,10 @@
+/home/emilio/C#/bin/Debug/netcoreapp2.0/C#.deps.json
+/home/emilio/C#/bin/Debug/netcoreapp2.0/C#.runtimeconfig.json
+/home/emilio/C#/bin/Debug/netcoreapp2.0/C#.runtimeconfig.dev.json
+/home/emilio/C#/bin/Debug/netcoreapp2.0/C#.dll
+/home/emilio/C#/bin/Debug/netcoreapp2.0/C#.pdb
+/home/emilio/C#/obj/Debug/netcoreapp2.0/C#.csproj.CoreCompileInputs.cache
+/home/emilio/C#/obj/Debug/netcoreapp2.0/C#.AssemblyInfoInputs.cache
+/home/emilio/C#/obj/Debug/netcoreapp2.0/C#.AssemblyInfo.cs
+/home/emilio/C#/obj/Debug/netcoreapp2.0/C#.dll
+/home/emilio/C#/obj/Debug/netcoreapp2.0/C#.pdb
